@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="index-container">
+<vl-steps bind:toggle="handleToogle" cur="{{cur}}" number></vl-steps>
+</view>
+ 
+<!-- <video src="https://vanlee-1306259980.cos.ap-beijing.myqcloud.com/2021/03/03/0315/studio_video_1616073430595357.MP4" object-fit="fill"></video> -->
